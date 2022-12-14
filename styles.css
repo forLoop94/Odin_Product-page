@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Hero Main text";
+    font-size: 18px;
+}
+
+.header-class {
+    width: 100%;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    padding: 20px 100px 120px 100px;
+}
+
+.header-class .logo {
+    margin-right: auto;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.header-class .inner-links {
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0px 20px;
+    color: #E5E7E8; 
+}
+
+.header-description {
+    justify-content: space-between;
+}
+
+.image-class {
+    background-color: aquamarine;
+    padding: 50px;
+}
+
+button {
+    background-color: #3882f6;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+
+
